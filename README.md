@@ -108,10 +108,7 @@ print(me.day_in_life())
 
 ### 📫 联系我
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanhuo218@email.com)
-[![掘金](https://img.shields.io/badge/掘金-1E80FF?style=for-the-badge&logo=byte&logoColor=white)](https://juejin.cn/user/xxx)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/xxx)
-[![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xxx)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertgtzv66@gmail.com)
 
 ---
 
@@ -123,7 +120,3 @@ print(me.day_in_life())
 
 </div>
 ```
-
----
-
-这套方案完全围绕你的 **Java + Vue + Python** 技术栈设计，配色采用 gruvbox 暖色主题，看起来专业又舒适。如果还想调整配色、风格或添加其他功能，随时告诉我！😊

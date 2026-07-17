@@ -47,7 +47,6 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yanhuo218&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E&locale=cn" alt="Yanhuo 的 GitHub 统计" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yanhuo218&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E" alt="Yanhuo 的连续贡献统计" />
 </div>
 
 ## 联系我

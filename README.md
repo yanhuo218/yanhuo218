@@ -59,25 +59,8 @@ public class Yanhuo {
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanhuo218&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhuo218&layout=compact&theme=gruvbox&hide_border=true&langs_count=6"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanhuo218&theme=gruvbox&hide_border=true"/>
 </div>
-
----
-
-### 📁 我的项目亮点
-
-| 项目 | 技术栈 | 简介 |
-|------|--------|------|
-| 🏗️ **项目A** | Spring Boot + Vue 3 + MySQL | 待补充——企业级管理系统 |
-| 📊 **项目B** | Python + Pandas + FastAPI | 待补充——数据分析服务 |
-| ⚙️ **项目C** | Spring Cloud + Docker | 待补充——微服务实践 |
 
 ---
 

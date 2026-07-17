@@ -52,9 +52,4 @@
 ## 联系我
 
 [![Gmail](https://img.shields.io/badge/Gmail-联系我-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gilbertgtzv66@gmail.com)
-
-<div align="center">
-
 ![访问计数](https://komarev.com/ghpvc/?username=yanhuo218&color=38BDF8&style=flat-square&label=Profile+Views)
-
-</div>
